@@ -3032,7 +3032,8 @@ h2.entry-title {
 
 .wp-block-columns.alignfull,
 .alignfull:not(.has-background) .wp-block-columns {
-	padding-left: 11rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
 }
 
 .wp-block-column {
