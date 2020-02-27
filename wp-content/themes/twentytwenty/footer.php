@@ -26,7 +26,11 @@
 							);
 							?>
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><br><?php bloginfo( 'name' ); ?></a>
+<<<<<<< HEAD
 						    <br> P.IVA: 03816450138"
+=======
+						    <br> "P.IVA: 03816450138"
+>>>>>>> parent of 48fd951... sistemo size e thickness footer
 						</p><!-- .footer-copyright -->
 
 					</div><!-- .footer-credits -->
