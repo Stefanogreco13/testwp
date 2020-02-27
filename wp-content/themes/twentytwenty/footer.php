@@ -26,7 +26,7 @@
 							);
 							?>
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><br><?php bloginfo( 'name' ); ?></a>
-						    <br> "P.IVA: 03816450138"
+						    <br> P.IVA: 03816450138
 						</p><!-- .footer-copyright -->
 
 					</div><!-- .footer-credits -->
