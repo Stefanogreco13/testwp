@@ -4457,15 +4457,10 @@ a.to-the-top > * {
 }
 
 .footer-copyright {
-	font-weight: 500;
+	font-weight: 600;
 	margin: 0;
-	font-size: 12;
 }
 
-.powered-by-wordpress {
-	display: none;
-	margin: 0 0 0 2.4rem;
-}
 
 .to-the-top-long {
 	display: none;
@@ -5530,7 +5525,8 @@ a.to-the-top > * {
 	}
 
 	.footer-copyright {
-		font-weight: 700;
+		font-weight: 500
+		font-size: 12pt;
 	}
 
 	.powered-by-wordpress {
