@@ -32,7 +32,7 @@
 					</div><!-- .footer-credits -->
 
 					
-						<span class="to-the-top-long">
+						
 							<?php
 							/* translators: %s: HTML character for up arrow */
 							printf( __( 'To the top %s', 'twentytwenty' ), '<span class="arrow" aria-hidden="true">&uarr;</span>' );
